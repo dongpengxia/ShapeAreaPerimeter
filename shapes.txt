@@ -1,0 +1,10 @@
+square 5
+rectangle 5 10
+square 3
+triangle 1.2 1 1
+square 5
+circle 3
+circle 5
+oval 3
+triangle 3 4 5 20
+triangle 5 12 13
